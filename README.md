@@ -12,6 +12,4 @@ a dumb roblox executor i came up with, the API's it uses are not mine- this was 
 # Enjoy or.. Dont enjoy this dumb cheat for roblox
 
 
-#Preview:
-
 ![Screenshot](Animation.gif)
